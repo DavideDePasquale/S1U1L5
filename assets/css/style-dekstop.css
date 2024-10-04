@@ -1,0 +1,256 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    max-width: 1950px;
+    margin-inline: auto;
+    font-size: 1.2rem;
+    line-height: 1.65rem;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:"width" 100;
+
+}
+header {
+    display: block;
+    text-align: center;
+}
+.ciao {
+    background-color: black;
+}
+ header img { 
+    width: 30%;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+p {
+    color:rgba(56, 53, 53, 0.801);
+    padding-bottom: 35px;
+    padding-top: 20px;
+    padding-left:30px;
+    padding-right: 30px;
+    margin-left:2px;
+}
+h1 {
+    color:#25a2c3;
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 50px;
+     width: 100%;
+     font-family: "Montserrat", sans-serif;
+     font-optical-sizing: auto;
+     font-weight: 700;
+     font-style: normal;
+     line-height: 1.5rem;
+
+}
+.primaparte {
+    background-image: url(/assets/images/banner.jpg);
+    background-size: contain;
+    padding-bottom: 35px;
+}
+button {
+    background-color: #f04c2f;
+    color:white;
+    padding-top:14px;
+    padding-bottom: 14px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 5px;
+    border:none;
+    font-weight: bold;
+    font-size: 15px;
+}
+.scrittura h4 {
+    color:#25a2c3;
+    font-size:18px;
+    text-align: left;
+    padding-bottom: 1px;
+    font-weight: bold;
+    padding-top: 18px;
+     width: 100%;
+     font-family: "Montserrat", sans-serif;
+     font-optical-sizing: auto;
+     font-weight: 700;
+     font-style: normal;
+}
+main p {
+    display: block;
+    text-align: left;
+    color:rgba(56, 53, 53, 0.801);
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.note img {
+    border-radius: 50%;
+    width: 80%;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 16px;
+    padding-top: 15px;
+}
+.arancio {
+    background-color: #e22d0e;
+    padding-bottom: 30px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 1.5rem;
+}
+.arancio h4 {
+    text-align: center;
+    color:white;
+    font-weight: bold;
+    font-size: 30px;
+    padding-top:40px;
+    padding-bottom: 35px;
+}
+cite {
+    color: white;
+    opacity:60%;
+    font-style: italic;
+    display: block;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.speciale {
+    color: white;
+    padding:0;
+    text-align: center;
+}
+aside {
+    width: 30%;
+    margin-top:40px;
+    margin-left:25px;
+    margin-right: 25px;
+}
+aside div {
+    border:1px solid #dee1e3;
+    margin-bottom: 20px;
+    border-radius:5px;
+    padding-bottom: 30px;
+}
+aside img {
+    width:100%;
+    height: 50%;
+}
+footer {
+    display:block;
+    text-align:center;
+    background-color: #25a2c3;
+    padding-bottom: 40px;
+}
+footer h4 {
+    padding-top: 45px;
+    padding-bottom: 30px;
+    color:white;
+    font-weight: bold;
+    font-size: 35px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 1.5rem;
+}
+footer a {
+    color:#c8e7f0;
+    padding-top:6px;
+
+}
+span {
+    color:#c8e7f0;
+    padding-top:6px;
+    font-size:20px;
+    padding-bottom:15px;
+}
+hr {
+   width:50%;
+   color: white;
+}
+.lungo {
+    padding-bottom: 6px;
+}
+blockquote {
+    color:#c8e7f0;
+}
+.wow {
+    padding-bottom: 50px;
+}
+i {
+    color:white;
+}
+main {
+    padding-bottom: 40px;
+}
+aside h4 {
+    color:#25a2c3;
+    font-size:18px;
+    text-align: center;
+    padding-bottom: 1px;
+    font-weight: bold;
+    padding-top: 18px;
+     width: 100%;
+     font-family: "Montserrat", sans-serif;
+     font-optical-sizing: auto;
+     font-weight: 700;
+     font-style: normal;
+}
+aside p {
+    display: block;
+    align-items: center;
+}
+.strano {
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.ciao {
+    text-align: left;
+}
+.ciao img {
+    width:20%;
+    margin-left: 40px;
+}
+h1 {
+    padding-top:90px;
+}
+header p {
+    padding-top:10px;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-bottom: 40px;
+}
+.primaparte {
+    padding-bottom: 100px;
+    background-image: url(/assets/images/banner.jpg);
+    background-size: cover;
+}
+.baby {
+    box-sizing: border-box;
+    text-align: center;
+}
+.note {
+    margin-top:2.5rem;
+    display:inline-block;
+}
+.scrittura {
+    display:inline-block;
+    text-align:left;
+}
